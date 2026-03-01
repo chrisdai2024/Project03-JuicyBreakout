@@ -18,3 +18,16 @@ Built using Unity
 ## Future Development
 
 ## Created by 
+
+
+Changing the colors
+Animate the elements
+Squeeze and stretch
+Animate elements when they are hit
+Shake the screen when something good happens
+Add sound effects
+Add music
+Add particles when an element is hit
+Add a comet trail to the ball
+Add eyes
+Add a smile?
